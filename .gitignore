@@ -1,0 +1,22 @@
+# IDE files
+.idea
+.vscode
+
+# Yarn files
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.pnp.loader.*
+
+# Build files
+dist
+
+# Dependency directories
+node_modules
+
+# Environment variables
+.env
